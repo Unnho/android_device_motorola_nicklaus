@@ -20,7 +20,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 PRODUCT_DEVICE := nicklaus
-PRODUCT_NAME := lineage_nicklaus
+PRODUCT_NAME := rr_nicklaus
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := nicklaus
 PRODUCT_MANUFACTURER := nicklaus
